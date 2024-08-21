@@ -15,7 +15,7 @@ Kibana will be installed as deployment so that it can invokes the Elasticsearch 
     kubectl create -f es-svc.yaml
     kubectl create -f es-st.yaml
 
-# Verify Elasticsearch Deployment
+#### Verify Elasticsearch Deployment
 
     kubectl port-forward es-cluster-0 9200:9200
 
