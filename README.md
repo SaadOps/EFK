@@ -52,7 +52,7 @@ Run one pod in the same namespace to capture the logs on cluster
     kubectl run nginx --image=nginx --restart=Never
     kubectl run mycurlpod --image=curlimages/curl -i --tty -- sh
 
-# 4. Create index patterns
+# 4. Create index pattern
 ![image](https://github.com/user-attachments/assets/f7b09b54-314a-41aa-9091-4f61d7463fe9)
 ![screencapture-localhost-5601-app-management-kibana-indexPatterns-patterns-e5af2e30-5f20-11ef-afa8-95e5563d0291-2024-08-20-23_50_56](https://github.com/user-attachments/assets/018f59a5-6ed9-4105-9a4f-d41738015aa6)
 
