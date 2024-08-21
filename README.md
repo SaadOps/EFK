@@ -79,6 +79,7 @@ Run one pod in the same namespace to capture the logs on cluster
 ![Screenshot from 2024-08-20 23-57-04](https://github.com/user-attachments/assets/5f902c77-e4dd-4304-b7c2-f1b8396e7535)
 ![Screenshot from 2024-08-20 23-53-48](https://github.com/user-attachments/assets/49be4528-3f9c-4853-90a0-afdcf4d52f10)
 ![image](https://github.com/user-attachments/assets/7c46295e-56bc-428e-adb9-1f361529dbe2)
+![Screenshot from 2024-08-20 23-54-22](https://github.com/user-attachments/assets/bc601bd9-8e2b-4eca-9a05-88c4c1091dbf)
 ![Screenshot from 2024-08-21 00-09-12](https://github.com/user-attachments/assets/baca7c8d-bfc1-4c56-ba95-7029e2b670a0)
 
 
