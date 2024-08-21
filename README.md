@@ -4,7 +4,7 @@
 
 
 
-##### Elasticsearch will be installed first as a StatefulSet, which will store all the data as indexed. Fluentd will be installed as a DaemonSet so that logs can be captured from all nodes. Kibana will be installed as a Deployment so that it can invoke the Elasticsearch server and run all the dashboards.
+### Elasticsearch will be installed first as a StatefulSet, which will store all the data as indexed. Fluentd will be installed as a DaemonSet so that logs can be captured from all nodes. Kibana will be installed as a Deployment so that it can invoke the Elasticsearch server and run all the dashboards.
 
 # 1. Install Elasticsearch on Minikube Cluster:  
 
