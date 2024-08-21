@@ -44,18 +44,19 @@
     kubectl create -f fluentd-rb.yaml
     kubectl create -f fluentd-ds.yaml
 
-# 3. Validate the EFK Cluster  
+# 4. Create index pattern
+![image](https://github.com/user-attachments/assets/f7b09b54-314a-41aa-9091-4f61d7463fe9)
+![screencapture-localhost-5601-app-management-kibana-indexPatterns-patterns-e5af2e30-5f20-11ef-afa8-95e5563d0291-2024-08-20-23_50_56](https://github.com/user-attachments/assets/018f59a5-6ed9-4105-9a4f-d41738015aa6)
+
+
+# 5. Validate the EFK Cluster  
 Run one pod in the same namespace to capture the logs on cluster  
     
     kubectl create -f test-pod.yaml
     kubectl run nginx --image=nginx --restart=Never
     kubectl run mycurlpod --image=curlimages/curl -i --tty -- sh
-
-# 4. Create index pattern
-![image](https://github.com/user-attachments/assets/f7b09b54-314a-41aa-9091-4f61d7463fe9)
-![screencapture-localhost-5601-app-management-kibana-indexPatterns-patterns-e5af2e30-5f20-11ef-afa8-95e5563d0291-2024-08-20-23_50_56](https://github.com/user-attachments/assets/018f59a5-6ed9-4105-9a4f-d41738015aa6)
-
-# 5. Click on Discover
+    
+# 6. Click on Discover
 ### Output:
 ![screencapture-localhost-5601-app-discover-2024-08-20-23_51_47](https://github.com/user-attachments/assets/f8931f52-e53c-4a70-855e-7c0700acd6e2)
 ![screencapture-localhost-5601-app-discover-2024-08-20-23_57_26](https://github.com/user-attachments/assets/269e2800-4dac-4c87-b9af-6973dba93388)
