@@ -52,7 +52,12 @@ Run one pod in the same namespace to capture the logs on cluster
     kubectl run nginx --image=nginx --restart=Never
     kubectl run mycurlpod --image=curlimages/curl -i --tty -- sh
 
-# Output:
+# 4. Create index patterns
+![image](https://github.com/user-attachments/assets/f7b09b54-314a-41aa-9091-4f61d7463fe9)
+![screencapture-localhost-5601-app-management-kibana-indexPatterns-patterns-e5af2e30-5f20-11ef-afa8-95e5563d0291-2024-08-20-23_50_56](https://github.com/user-attachments/assets/018f59a5-6ed9-4105-9a4f-d41738015aa6)
+
+# 5. Click on Discover
+### Output:
 ![screencapture-localhost-5601-app-discover-2024-08-20-23_51_47](https://github.com/user-attachments/assets/f8931f52-e53c-4a70-855e-7c0700acd6e2)
 ![screencapture-localhost-5601-app-discover-2024-08-20-23_57_26](https://github.com/user-attachments/assets/269e2800-4dac-4c87-b9af-6973dba93388)
 ![screencapture-localhost-5601-app-discover-2024-08-21-00_03_24](https://github.com/user-attachments/assets/33379c58-0692-4026-b759-08e7301d613a)
@@ -64,7 +69,7 @@ Run one pod in the same namespace to capture the logs on cluster
 
 
 ### Other Implementation Screenshots:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d982051a-db0d-4837-b09e-bae1ce542b0f)
 ![Screenshot from 2024-08-20 23-53-14](https://github.com/user-attachments/assets/69d81b7b-4289-46a8-a770-743a8033e494)
 ![Screenshot from 2024-08-21 00-01-36](https://github.com/user-attachments/assets/fee5e561-e6b4-4b92-aadd-d00102384b28)
 ![Screenshot from 2024-08-21 00-01-10](https://github.com/user-attachments/assets/cf9e0b08-fce1-4563-b480-f935b03e76b7)
@@ -75,8 +80,7 @@ Run one pod in the same namespace to capture the logs on cluster
 ![Screenshot from 2024-08-20 23-53-48](https://github.com/user-attachments/assets/49be4528-3f9c-4853-90a0-afdcf4d52f10)
 ![image](https://github.com/user-attachments/assets/7c46295e-56bc-428e-adb9-1f361529dbe2)
 ![Screenshot from 2024-08-21 00-09-12](https://github.com/user-attachments/assets/baca7c8d-bfc1-4c56-ba95-7029e2b670a0)
-![image](https://github.com/user-attachments/assets/f7b09b54-314a-41aa-9091-4f61d7463fe9)
-![screencapture-localhost-5601-app-management-kibana-indexPatterns-patterns-e5af2e30-5f20-11ef-afa8-95e5563d0291-2024-08-20-23_50_56](https://github.com/user-attachments/assets/018f59a5-6ed9-4105-9a4f-d41738015aa6)
+
 
 
 
