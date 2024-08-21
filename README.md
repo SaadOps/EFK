@@ -64,6 +64,7 @@ Run one pod in the same namespace to capture the logs on cluster
 
 
 ### Other Implementation Screenshots:
+![Uploading image.png…]()
 ![Screenshot from 2024-08-20 23-53-14](https://github.com/user-attachments/assets/69d81b7b-4289-46a8-a770-743a8033e494)
 ![Screenshot from 2024-08-21 00-01-36](https://github.com/user-attachments/assets/fee5e561-e6b4-4b92-aadd-d00102384b28)
 ![Screenshot from 2024-08-21 00-01-10](https://github.com/user-attachments/assets/cf9e0b08-fce1-4563-b480-f935b03e76b7)
