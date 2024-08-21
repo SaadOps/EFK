@@ -62,8 +62,8 @@ Run one pod in the same namespace to capture the logs on cluster
 ![screencapture-localhost-5601-app-discover-2024-08-20-23_57_26](https://github.com/user-attachments/assets/269e2800-4dac-4c87-b9af-6973dba93388)
 ![screencapture-localhost-5601-app-discover-2024-08-21-00_03_24](https://github.com/user-attachments/assets/33379c58-0692-4026-b759-08e7301d613a)
 ![screencapture-localhost-5601-app-discover-2024-08-21-00_04_24](https://github.com/user-attachments/assets/14da24f3-84ff-44a2-9d24-e2a01400e309)
-![screencapture-localhost-5601-app-discover-2024-08-21-00_06_20](https://github.com/user-attachments/assets/b209d2c1-f6f4-4da8-be5e-27aebbcb8ce6)
 ![image](https://github.com/user-attachments/assets/41f31b74-afa9-4259-9a76-5d0ad72b21f7)
+![screencapture-localhost-5601-app-discover-2024-08-21-00_06_20](https://github.com/user-attachments/assets/b209d2c1-f6f4-4da8-be5e-27aebbcb8ce6)
 ![image](https://github.com/user-attachments/assets/3c514f41-2fc7-44fb-9905-5e16527775e1)
 
 
