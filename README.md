@@ -19,3 +19,5 @@ Submit Logs and Visualizations:
 
 Take screenshots of the Kibana dashboards and visualizations showing Minikube logs.
 Also send a Readme specifying the steps/commands used to deploy EFK along with configurations
+![EFK](https://github.com/user-attachments/assets/cd1fb063-5075-4423-8023-fb900647ee61)
+
