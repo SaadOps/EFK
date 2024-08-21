@@ -1,6 +1,7 @@
 # EFK (Elasticsearch, Fluentd, Kibana) Deployment on Minikube Kubernetes Cluster.
 
-![EFK](https://github.com/user-attachments/assets/cd1fb063-5075-4423-8023-fb900647ee61)
+![image](https://github.com/user-attachments/assets/eddbbb27-b673-4a01-80a2-4d3db9c65cf9)
+
 
 
 
