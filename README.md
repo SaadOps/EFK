@@ -50,7 +50,7 @@ Kibana will be installed as deployment so that it can invokes the Elasticsearch 
 # 3. Validate the EFK Cluster  
 Run one pod in the same namespace to capture the logs on cluster  
     
-    kubectl create -f test.pod
+    kubectl create -f test-pod.yaml
     kubectl run nginx --image=nginx --restart=Never
     kubectl run mycurlpod --image=curlimages/curl -i --tty -- sh
 
